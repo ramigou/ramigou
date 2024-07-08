@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=50&duration=2500&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=I'm+a+developer+%22Daseul+Jung%22.;I+love+challenges+and+personal+growth!)](https://git.io/typing-svg)
 
 <!--
 **ramigou/ramigou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
